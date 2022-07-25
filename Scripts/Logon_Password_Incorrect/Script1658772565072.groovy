@@ -39,5 +39,5 @@ if (mensagem != 'A senha está correta') {
     FailureHandling.STOP_ON_FAILURE
 }
 
-WebUI.closeBrowser()
+WebUI.acceptAlert()
 
