@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Configuraes</name>
+   <tag></tag>
+   <elementGuidId>b5221575-0fed-4f5e-95ac-45a2d1b473b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-digital-configuracao']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-digital-configuracao > div.ndd-ng-sidebar__item__content.ndd-ng-sidebar__item__content--with-figure > div.ndd-ng-sidebar__item__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d0f3cb6-b09c-4586-9422-1d4fa0defa0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ndd-ng-sidebar__item__text</value>
+      <webElementGuid>37647f38-758b-4da9-8b33-1801bcea5165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configurações</value>
+      <webElementGuid>1a8071d1-1ea6-46a8-8a8a-07f64bba3845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-digital-configuracao&quot;)/div[@class=&quot;ndd-ng-sidebar__item__content ndd-ng-sidebar__item__content--with-figure&quot;]/div[@class=&quot;ndd-ng-sidebar__item__text&quot;]</value>
+      <webElementGuid>5cf7c874-3f12-477a-864d-bd171e1c395e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-digital-configuracao']/div/div</value>
+      <webElementGuid>f8dbedf0-1907-4437-ad29-ad65c4eff871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitações'])[1]/following::div[3]</value>
+      <webElementGuid>10066b5d-6dd5-4c41-89f4-8c18bc83b71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eventos de Recepção'])[3]/following::div[6]</value>
+      <webElementGuid>0fd10294-aa29-4a39-bdfa-2a5b82726f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minhas Configurações'])[1]/preceding::div[1]</value>
+      <webElementGuid>21f906fa-5f87-4e32-aa09-2058715608c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ndd-ng-sidebar-option[4]/li/div/div</value>
+      <webElementGuid>66a0e3f6-1d40-4320-b561-ec727314dd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Configurações' or . = 'Configurações')]</value>
+      <webElementGuid>f53c8926-06a6-4bd9-b88f-2467c939bf48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

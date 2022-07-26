@@ -17,20 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Logon_Portal_Neogrid'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://portalmonitoramentondddev02.e-datacenter.nddigital.com.br/')
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/div_Configuraes'))
 
-WebUI.waitForElementVisible(findTestObject('Page_Neogrid - Login Success/button_Entrar'), 0)
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/div_Empresa'))
 
-WebUI.delay(5)
+WebUI.delay(3)
 
-WebUI.setText(findTestObject('Object Repository/Page_Neogrid - Login Success/input_Endereo de Email_Username or email address'), 
-    'leonardo.nunes@ndd.tech')
+WebUI.click(findTestObject('Page_Neogrid Fiscal/pequisa'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Neogrid - Login Success/input_Esqueceu a senha_Senha'), 'siJEqDBEYoP8xOkgqrxVhg==')
+WebUI.setText(findTestObject('Page_Neogrid Fiscal/pequisa'), '11581859004226')
 
-WebUI.click(findTestObject('Object Repository/Page_Neogrid - Login Success/button_Entrar'))
+WebUI.click(findTestObject('Page_Neogrid Fiscal/pesquisar'))
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Page_Neogrid Fiscal/Grid_position_first'))
+
+WebUI.click(findTestObject('Page_Neogrid Fiscal/button_excluir_empresa'))
+
+WebUI.click(findTestObject('Page_Neogrid Fiscal/button_confirme_delete_empresa'))
 

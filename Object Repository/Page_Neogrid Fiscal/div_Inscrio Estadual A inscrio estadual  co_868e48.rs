@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Inscrio Estadual A inscrio estadual  co_868e48</name>
+   <tag></tag>
+   <elementGuidId>07e447a8-8c41-4dba-ad96-8615efe3b365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='configuracao']/configuracao-app/div/ng-component/ng-component/ndd-ng-spinner/fieldset/div/empresa-create-form/form/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b95d694d-e8e1-4206-acc8-5cb8eea08f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>ce022c86-7b42-4d80-a42a-a34bc2dfa428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Inscrição Estadual A inscrição estadual é constituída apenas por números. Inscrição Municipal </value>
+      <webElementGuid>ec2569ba-1e30-45d2-877b-68ac9b054b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;configuracao&quot;)/configuracao-app[1]/div[@class=&quot;ndd-container__content&quot;]/ng-component[1]/ng-component[1]/ndd-ng-spinner[1]/fieldset[@class=&quot;ndd-ng-spinner&quot;]/div[@class=&quot;container-fluid feature-view__content&quot;]/empresa-create-form[1]/form[@class=&quot;ng-dirty ng-touched ng-invalid&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>200ced54-d2b7-4fb6-a6aa-b0122cd9f91b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='configuracao']/configuracao-app/div/ng-component/ng-component/ndd-ng-spinner/fieldset/div/empresa-create-form/form/div[4]</value>
+      <webElementGuid>4fd3a5ec-1575-4d5f-9264-896e9fe610e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[3]</value>
+      <webElementGuid>d7e00919-734d-47a7-a02e-de0786bddf5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>5b1db0bb-a334-48c3-87d3-0687930940a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Inscrição Estadual A inscrição estadual é constituída apenas por números. Inscrição Municipal ' or . = ' Inscrição Estadual A inscrição estadual é constituída apenas por números. Inscrição Municipal ')]</value>
+      <webElementGuid>44942c31-f806-4c05-ada2-9d4244404049</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

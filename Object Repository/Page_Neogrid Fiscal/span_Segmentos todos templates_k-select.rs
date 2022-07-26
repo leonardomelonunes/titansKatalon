@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Segmentos todos templates_k-select</name>
+   <tag></tag>
+   <elementGuidId>63e6793d-35ef-4a0d-9717-998d44443928</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='k-f7a0b1af-176a-4ee8-956c-b17a1495bcad']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#k-f7a0b1af-176a-4ee8-956c-b17a1495bcad > span.k-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a178a175-b90c-4f30-9c59-97e15fe24f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>54010ab2-a7d2-4ace-9e3e-5b8e632384fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-select</value>
+      <webElementGuid>8829e58d-88b1-4a69-84be-f59ef56ad6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-f7a0b1af-176a-4ee8-956c-b17a1495bcad&quot;)/span[@class=&quot;k-select&quot;]</value>
+      <webElementGuid>f74f711a-9540-4b9d-8819-a58dc7859fc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-f7a0b1af-176a-4ee8-956c-b17a1495bcad']/span[2]</value>
+      <webElementGuid>ac12a3ac-bb93-47e4-9007-acaa4f927686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Segmentos todos templates'])[1]/following::span[1]</value>
+      <webElementGuid>0e1c1b3d-8946-49a4-aad5-f8bd0440ec2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelo de Configuração'])[1]/following::span[3]</value>
+      <webElementGuid>cc1902de-95cb-41f9-80be-98cefe31758c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logomarca'])[1]/preceding::span[2]</value>
+      <webElementGuid>0dbbd23f-284d-46f1-bdfb-41b8a2b57f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salvar'])[1]/preceding::span[4]</value>
+      <webElementGuid>3828c847-70e5-418a-b46c-7b393b42012a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/ndd-ng-select/div/kendo-dropdownlist/span/span[2]</value>
+      <webElementGuid>5d3a0bae-c832-477f-82d5-36fd2d5cdb7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

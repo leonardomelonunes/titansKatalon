@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ambiente Desenvolvimento  Testes_k-select</name>
+   <tag></tag>
+   <elementGuidId>68dabc79-0989-4f52-810c-2858f6ca6a6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='k-15747661-a723-4838-8ca5-075ebd7194aa']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#k-15747661-a723-4838-8ca5-075ebd7194aa > span.k-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c333e05-e9f7-4720-8507-8ab52e44586f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>be250361-93ad-4141-8164-f83d2b2e7cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-select</value>
+      <webElementGuid>e916d940-adb7-46b5-9b1b-bc5244e09954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-15747661-a723-4838-8ca5-075ebd7194aa&quot;)/span[@class=&quot;k-select&quot;]</value>
+      <webElementGuid>6b224987-efba-4438-8086-3b9c56a12ef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-15747661-a723-4838-8ca5-075ebd7194aa']/span[2]</value>
+      <webElementGuid>0439b1ca-7f93-4c03-aced-41569783dfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ambiente Desenvolvimento / Testes'])[1]/following::span[1]</value>
+      <webElementGuid>230ee05b-f900-43e2-a408-51ba2721804a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ambiente'])[1]/following::span[3]</value>
+      <webElementGuid>449199c7-4367-4efb-a5da-68301bf820d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelo de Configuração'])[1]/preceding::span[2]</value>
+      <webElementGuid>714ffce6-6b5c-45b8-85e1-2cfc1915b42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Segmentos todos templates'])[1]/preceding::span[2]</value>
+      <webElementGuid>cedb9938-2acf-41fb-b520-54c51b9dabed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/ndd-ng-select/div/kendo-dropdownlist/span/span[2]</value>
+      <webElementGuid>7c2c1b2c-d24a-4fa6-94aa-05c81b95b7ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

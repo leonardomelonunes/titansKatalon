@@ -19,3 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Logon_Portal_Neogrid'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/div_Configuraes'))
+
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/div_Empresa'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/button_Criar'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Neogrid Fiscal/input__razaoSocial'), 'Empresa testes Katalon')
+
+WebUI.setText(findTestObject('Object Repository/Page_Neogrid Fiscal/input__apelidoEmpresa'), 'Katalon testes empresa')
+
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/input__cnpj'))
+
+WebUI.setText(findTestObject('Page_Neogrid Fiscal/input__cnpj'), '11581859004226')
+
+WebUI.click(findTestObject('Object Repository/Page_Neogrid Fiscal/button_Salvar'))
+
+WebUI.callTestCase(findTestCase('Deletar_Empresa_Sucesso'), [:], FailureHandling.STOP_ON_FAILURE)
+
