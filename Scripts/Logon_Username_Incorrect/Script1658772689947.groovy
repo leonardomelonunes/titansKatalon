@@ -33,11 +33,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Neogrid - Login In
 
 WebUI.click(findTestObject('Object Repository/Page_Neogrid - Login Incorrect Username/button_Entrar'))
 
-String mensagem = WebUI.getText(findTestObject('Object Repository/Page_Neogrid - Login Incorrect Username/p_No estamos encontrando a sua conta'));
-
-if (mensagem != 'Não estamos encontrando a sua conta.') {
-    FailureHandling.STOP_ON_FAILURE
-}
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Page_Neogrid - Login Incorrect Username/p_No estamos encontrando a sua conta'))
 

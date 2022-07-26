@@ -33,11 +33,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Neogrid - Login In
 
 WebUI.click(findTestObject('Object Repository/Page_Neogrid - Login Incorrect Password/button_Entrar'))
 
-String mensagem = WebUI.getText(findTestObject('Page_Neogrid - Login Incorrect Password/p_A senha est incorreta'), FailureHandling.STOP_ON_FAILURE)
-
-if (mensagem != 'A senha está correta') {
-    FailureHandling.STOP_ON_FAILURE
-}
-
-WebUI.acceptAlert()
+WebUI.click(findTestObject('Page_Neogrid - Login Incorrect Password/p_A senha est incorreta'))
 
